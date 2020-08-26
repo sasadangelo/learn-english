@@ -18,7 +18,7 @@ First of all, you try to memorize lots of grammar rules that you easily forgot w
 
 Your learning is constantly based on translation and this affects your fluency so you always have hard time when you try to speak with someone else.
 
-This approach is completely different from the methods we used when we were young and we learned our native language. Our parents started to teach us few words at a time (mom, dad, food, milk, hello, etc.) with the correct pronunciations and show everytime the object representing that word. As we increased our skills we started to create easy sentences (Mom I'm hungry, Mon I'm thirsty, and so on). They didn't teach us grammar rule but we started to incorporare them with these easy sentences and with the constant corrections of our parents when we did mistakes.
+This approach is completely different from the methods we used when we were children and we learned our native language. Our parents started to teach us few words at a time (mom, dad, food, milk, hello, etc.) with the correct pronunciations and show everytime the object representing that word. As we increased our skills we started to create easy sentences (Mom I'm hungry, Mon I'm thirsty, and so on). They didn't teach us grammar rule but we started to incorporare them with these easy sentences and with the constant corrections of our parents when we did mistakes.
 
 ## Myth: childrens are better at learning foreign languages
 
@@ -28,18 +28,30 @@ TODO
 
 TODO
 
-## Build your first vocabulary with Words and Sounds
+### 1. Build your vocabulary
 
 TODO
 
-## Start learn easy sentences with Phrase Books, Books, or Article
+### 2. Start learning easy sentences
 
 TODO
 
-## Learn Grammar to learn making more complex sentences
+### 3. Learn more complex sentences using Grammar
 
 TODO
 
-## Listen and Watch Podcasts, Videos, Movies, and TV Series
+### 4. Learn more words and sentences reading Books, Articles, or Stories
+
+TODO
+
+### 5. Improve your listening with Dialogues, Audio Books, Videos, Podcasts, Movies, and TV Series
+
+TODO
+
+### 6. Improve your writing skills spending time writing your stories
+
+TODO
+
+### 7. Improve your speaking skills with language partners
 
 TODO
