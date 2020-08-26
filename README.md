@@ -20,7 +20,7 @@ Your learning is constantly based on translation and this affects your fluency s
 
 This approach is completely different from the methods we used when we were young and we learned our native language. Our parents started to teach us few words at a time (mom, dad, food, milk, hello, etc.) with the correct pronunciations and show everytime the object representing that word. As we increased our skills we started to create easy sentences (Mom I'm hungry, Mon I'm thirsty, and so on). They didn't teach us grammar rule but we started to incorporare them with these easy sentences and with the constant corrections of our parents when we did mistakes.
 
-## Myth: childrens are better in learning foreign languages
+## Myth: childrens are better at learning foreign languages
 
 TODO
 
