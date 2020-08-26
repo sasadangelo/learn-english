@@ -1,4 +1,4 @@
-# How to learn English (or whatever language) in the shortest period of time
+# How to learn English (or whatever language) quickly
 
 ## My English History
 
