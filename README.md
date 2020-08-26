@@ -40,6 +40,6 @@ TODO
 
 TODO
 
-## Expose yourself to Podcast, Video, Movies, TV Series
+## Listen and Watch Podcasts, Videos, Movies, and TV Series
 
 TODO
