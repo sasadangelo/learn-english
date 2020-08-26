@@ -24,7 +24,7 @@ This approach is completely different from the methods we used when we were youn
 
 TODO
 
-## A Revolution method
+## A Revolutionary method
 
 TODO
 
